@@ -8,6 +8,8 @@ create and save the map using turtlebot3 with SLAM approach
 
 ## First
 -  Go to number 3 (Quick Start Guide) 
+<img width="209" alt="first" src="https://user-images.githubusercontent.com/108233127/185715430-0d2f0cf0-5c32-4d36-8350-10838667fc4c.png">
+
 
 - select the option "neotic" above the page 
 
